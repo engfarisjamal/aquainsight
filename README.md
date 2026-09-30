@@ -13,7 +13,22 @@
 ## 🎯 Problem Statement
 
 Freshwater ecosystems face increasing pressure from pollution, climate change, and human activity. Real-time water quality monitoring is critical for protecting both environmental and human health — a core principle of the One Health approach.
+## 📸 Dashboard Screenshots
 
+### Time Series Analysis
+![Time Series](reports/screenshots/01_timeseries.png)
+
+### WQI Distribution
+![Distribution](reports/screenshots/02_distribution.png)
+
+### Anomaly Detection
+![Anomalies](reports/screenshots/03_anomalies.png)
+
+### Parameter Analysis
+![Parameters](reports/screenshots/04_parameters.png)
+
+### Data View
+![Data](reports/screenshots/05_data.png)
 Traditional monitoring is slow, expensive, and hard to interpret. **AquaInsight** solves this with AI.
 
 ---
